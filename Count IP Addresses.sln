@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count IP Addresses", "Count IP Addresses.csproj", "{A0FBFA9C-1945-4CB9-96DF-35C15068BD58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountIPAddressesTests", "..\CountIPAddressesTests\CountIPAddressesTests.csproj", "{1E2AF77B-7EBC-4A57-AD0B-5A99816EBA4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0FBFA9C-1945-4CB9-96DF-35C15068BD58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0FBFA9C-1945-4CB9-96DF-35C15068BD58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0FBFA9C-1945-4CB9-96DF-35C15068BD58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0FBFA9C-1945-4CB9-96DF-35C15068BD58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E2AF77B-7EBC-4A57-AD0B-5A99816EBA4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E2AF77B-7EBC-4A57-AD0B-5A99816EBA4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E2AF77B-7EBC-4A57-AD0B-5A99816EBA4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E2AF77B-7EBC-4A57-AD0B-5A99816EBA4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39D9154C-535C-4935-9961-2AD4009D5019}
+	EndGlobalSection
+EndGlobal
